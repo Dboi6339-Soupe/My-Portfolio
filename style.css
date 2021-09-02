@@ -1,0 +1,9 @@
+#text {
+    color: black;
+    font-size: 24px;
+    font-family: fantasy;
+}
+
+#puppies {
+    content-visibility: visible;
+}
