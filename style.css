@@ -1,5 +1,9 @@
+body {
+    background-color: black;
+}
+
 #text {
-    color: black;
+    color: white;
     font-size: 24px;
     font-family: fantasy;
 }
